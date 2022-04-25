@@ -1,0 +1,2 @@
+# linklist
+Linklist for antifagraphics

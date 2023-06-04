@@ -1,4 +1,5 @@
 # Antifa Graphics linklist
 
-## [Antifa Graphics Archive (Downloads)](https://antifagraphics.github.io)
+## [High-Res Design Downloads](https://antifagraphics.github.io)
 ## [Antifascist Logo Generator](https://antifagraphics.github.io/antifascist-logo-generator)
+## [Shop](https://shop.antifagraphics.org)
